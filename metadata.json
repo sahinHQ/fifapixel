@@ -1,0 +1,6 @@
+{
+  "name": "Pixel FIFA 3D",
+  "description": "An immersive retro 3D-perspective pixel art arcade soccer game with dynamic AI, responsive controls, interactive scoreboard, audio synthesizer, and team management in a dark sports interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
